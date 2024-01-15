@@ -1,12 +1,12 @@
 {
-    "name": "roborourke/wp-graphql-meta",
+    "name": "valentinceaprazaru/wp-graphql-meta",
     "description": "Meta data helper for wp-graphql",
     "type": "wordpress-plugin",
     "license": "GPLv3",
     "authors": [
         {
-            "name": "Robert O'Rourke",
-            "email": "robert@o-rourke.org"
+            "name": "Valentin Ceaprazaru",
+            "email": "email@somewhere.org"
         }
     ],
     "require": {}
