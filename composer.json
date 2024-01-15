@@ -1,7 +1,7 @@
 {
     "name": "roborourke/wp-graphql-meta",
     "description": "Meta data helper for wp-graphql",
-    "type": "library",
+    "type": "wordpress-plugin",
     "license": "GPLv3",
     "authors": [
         {
